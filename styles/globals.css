@@ -9,8 +9,8 @@
   input {
     @apply focus:outline-none outline-none
   }
+}
 
-  body {
-    font-family: 'Tajawal', sans-serif;
-  }
+body {
+  font-family: 'Tajawal', sans-serif;
 }
